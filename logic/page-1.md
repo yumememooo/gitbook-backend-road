@@ -16,9 +16,15 @@ _BigO (_**大O符號**（Big O notation) 又稱漸進符號
 
 O(n)不代表`運行時間`，它代表的是`執行時間隨著數據規模增長的變化趨勢`。
 
-####
 
-#### 參考好文
+
+
+
+
+
+\-----------------
+
+### 參考好文
 
 * \[Day5：\[演算法]如何衡量程式的效率]@IT邦幫忙
   * [https://ithelp.ithome.com.tw/articles/10203082](https://ithelp.ithome.com.tw/articles/10203082)&#x20;

@@ -8,7 +8,7 @@
 
 ## logic
 
-* [演算法程式的效率](logic/yan-suan-fa-cheng-shi-de-xiao-shuai.md)
+* [演算法程式的效率](logic/page-1.md)
 
 ## DB
 
