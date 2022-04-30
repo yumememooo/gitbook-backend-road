@@ -8,8 +8,12 @@
 
 ## logic
 
-* [Page 1](logic/page-1.md)
+* [演算法程式的效率](logic/yan-suan-fa-cheng-shi-de-xiao-shuai.md)
 
 ## DB
 
 * [profile](db/profile.md)
+
+## Group 1
+
+* [gitbook的markdown說明](group-1/gitbook-de-markdown-shuo-ming.md)
