@@ -21,8 +21,7 @@ O(n)不代表`運行時間`，它代表的是`執行時間隨著數據規模增�
 
 
 
-* Different Array sorting algorithms and their space time complexity.
-* [https://twitter.com/appdevservices1/status/1147114854773329925](https://twitter.com/appdevservices1/status/1147114854773329925)
+
 
 
 
