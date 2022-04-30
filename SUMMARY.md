@@ -8,7 +8,7 @@
 
 ## logic
 
-* [演算法程式的效率](logic/yan-suan-fa-cheng-shi-de-xiao-shuai/README.md)
+* [演算法程式的效率](logic/page-1.md)
   * [計算BigO](logic/yan-suan-fa-cheng-shi-de-xiao-shuai/ji-suan-bigo.md)
 * [leetcode](logic/leetcode/README.md)
   * [Page 1](logic/leetcode/page-1.md)

@@ -12,15 +12,25 @@ O(n)不代表`運行時間`，它代表的是`執行時間隨著數據規模增�
 
 
 
-* O(1)
-* O(logn)&#x20;
-* O(n) 一個迴圈
-* O(nlogn)&#x20;
-* O(n^2)
-* O(n!)
-* O(2n)
+可以參考下圖，某些bigO的input(N)越大時，上升曲線非常快（運行效率越差），因此是糟糕的
 
-![](../../.gitbook/assets/time-complexity-examples.png)
+* <mark style="color:green;">**O(1) O(logn)**</mark>** **<mark style="color:orange;">**O(n)**</mark>&#x20;
+* <mark style="color:red;">**O(nlogn) O(n^2) Ｏ(n!)**</mark>&#x20;
 
-####
+![](../../.gitbook/assets/big-o-chart-tutorial-bazar-aymptotic-notations-1.png)
+
+
+
+* Different Array sorting algorithms and their space time complexity.
+* [https://twitter.com/appdevservices1/status/1147114854773329925](https://twitter.com/appdevservices1/status/1147114854773329925)
+
+
+
+
+
+
+
+
+
+
 
