@@ -4,7 +4,7 @@
 
 ## git
 
-* [Page 2](git/page-2.md)
+* [git](git/git.md)
 
 ## logic
 
