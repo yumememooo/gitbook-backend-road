@@ -1,8 +1,12 @@
 # Big5
 
-\- 大五碼 [https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%BA%94%E7%A2%BC](https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%BA%94%E7%A2%BC)\
-「大五碼」（Big5）是由台灣財團法人資訊工業策進會為五大中文套裝軟體所設計的中文共通內碼，\
-、Windows繁體中文版等主要作業系統的字元集都是以Big5為基準，但廠商又各自增加不同的造字與造字區，衍生成多種不同版本。\
+{% hint style="info" %}
+「大五碼」（Big5）是是使用繁體中文（正體中文）社群中最常用的電腦漢字字元集標準，由台灣財團法人資訊工業策進會為五大中文套裝軟體所設計的中文共通內碼，\
+、Windows繁體中文版等主要作業系統的字元集都是以Big5為基準，但廠商又各自增加不同的造字與造字區，衍生成多種不同版本。
+
+— [https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%BA%94%E7%A2%BC](https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%BA%94%E7%A2%BC)
+{% endhint %}
+
 \
 \
 Big 5 內碼表\

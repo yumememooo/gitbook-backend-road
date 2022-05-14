@@ -16,10 +16,11 @@
 * [leetcode](logic/leetcode/README.md)
   * [Page 1](logic/leetcode/page-1.md)
 * [編碼](logic/bian-ma/README.md)
-  * [UTF-8 的編碼格式](logic/bian-ma/utf8-de-bian-ma-ge-shi.md)
+  * [ASCII](logic/bian-ma/ascii.md)
+  * [Unicode](logic/bian-ma/unicode.md)
+  * [UTF-8](logic/bian-ma/utf-8.md)
   * [URL](logic/bian-ma/url.md)
   * [Big5](logic/bian-ma/big5.md)
-  * [ASCII](logic/bian-ma/ascii.md)
 
 ## DB
 
