@@ -15,6 +15,11 @@
   * [數學歸納法](logic/yan-suan-fa-cheng-shi-de-xiao-shuai/shu-xue-gui-na-fa.md)
 * [leetcode](logic/leetcode/README.md)
   * [Page 1](logic/leetcode/page-1.md)
+* [編碼](logic/bian-ma/README.md)
+  * [UTF-8 的編碼格式](logic/bian-ma/utf8-de-bian-ma-ge-shi.md)
+  * [URL](logic/bian-ma/url.md)
+  * [Big5](logic/bian-ma/big5.md)
+  * [ASCII](logic/bian-ma/ascii.md)
 
 ## DB
 
@@ -30,5 +35,3 @@
   * [VS CODE rest client plugin使用](ide/vscode/vs-code-rest-client-plugin-shi-yong.md)
 
 ## Group 2
-
-* [URL](group-2/url.md)
