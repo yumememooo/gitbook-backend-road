@@ -10,4 +10,8 @@ ASCII 由電報碼發展而來。第一版標準發布於1963年，1967年經歷
 
 ### 缺點
 
-ASCII的局限在於只能顯示26個基本拉丁字母、阿拉伯數字和英式標點符號，因此只能用於顯示現代美國英語（且處理naïve、café、élite等外來語時，必須去除附加符號）。雖然EASCII解決了部分西歐語言的顯示問題，但對更多其他語言依然無能為力。因此，現在的軟體系統大多採用[Unicode](https://zh.wikipedia.org/wiki/Unicode)，特別是與ASCII向下相容的[UTF-8](https://zh.wikipedia.org/wiki/UTF-8)。
+ASCII的局限在於只能顯示26個基本拉丁字母、阿拉伯數字和英式標點符號，因此只能用於顯示現代美國英語（且處理naïve、café、élite等外來語時，必須去除附加符號）。雖然EASCII解決了部分西歐語言的顯示問題，但對更多其他語言依然無能為力。因此，現在的軟體系統大多採用[Unicode](https://zh.wikipedia.org/wiki/Unicode)，特別是與ASCII向下相容的[UTF-8](https://zh.wikipedia.org/wiki/UTF-8)。&#x20;
+
+
+
+英文 1 byte
