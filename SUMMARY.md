@@ -2,9 +2,9 @@
 
 * [backend Learning](README.md)
 
-## git
+## CLI
 
-* [git](git/git.md)
+* [git](cli/git.md)
 
 ## logic
 
@@ -18,6 +18,7 @@
 
 ## Computer Science
 
+* [KM](computer-science/km.md)
 * [單位](computer-science/dan-wei.md)
 * [編碼](computer-science/bian-ma/README.md)
   * [ASCII](computer-science/bian-ma/ascii.md)
@@ -31,11 +32,8 @@
 
 * [profile](db/profile.md)
 
-## Group 1
-
-* [gitbook的markdown說明](group-1/gitbook-de-markdown-shuo-ming.md)
-
 ## IDE
 
+* [gitbook的markdown說明](ide/gitbook-de-markdown-shuo-ming.md)
 * [vscode](ide/vscode/README.md)
   * [VS CODE rest client plugin使用](ide/vscode/vs-code-rest-client-plugin-shi-yong.md)
