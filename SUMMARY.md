@@ -24,11 +24,12 @@
 
 ## Computer Science
 
-* [KM](computer-science/km/README.md)
-  * [單位](computer-science/km/dan-wei.md)
+* [KM](computer-science/km.md)
+  * [單位](computer-science/dan-wei.md)
 * [協定](computer-science/xie-ding/README.md)
   * [OSI模型網路七層](computer-science/xie-ding/osi-mo-xing-wang-lu-qi-ceng.md)
   * [ＨＴＴＰ](computer-science/xie-ding/undefined.md)
+* [資安](computer-science/zi-an.md)
 * [編碼](computer-science/bian-ma/README.md)
   * [ASCII](computer-science/bian-ma/ascii.md)
   * [Unicode](computer-science/bian-ma/unicode.md)
