@@ -1,4 +1,10 @@
+---
+description: 名詞解釋
+---
+
 # KM
+
+名詞解釋
 
 * CLI
 
