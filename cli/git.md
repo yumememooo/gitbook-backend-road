@@ -1,10 +1,16 @@
+---
+description: 記錄有關git相關操作
+---
+
 # git
 
-#### ＶＳＣＯＤＥ插件
+### 有關vscode插件
 
 Git Graph [https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
-####
+這個插件可以快速讓你切換管理分支，可以查看圖表，設定git，merge，Tag等等操作．
+
+
 
 #### git commit
 
@@ -14,13 +20,16 @@ type:主旨
 
 
 
-#### 查看log
+#### 查看log 與退回紀錄
 
+```
 git log --oneline
-
-#### 退回
-
 git reset "xxxxx^"  ^代表上一次
+```
+
+
+
+
 
 
 
