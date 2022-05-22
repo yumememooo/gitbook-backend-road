@@ -1,6 +1,6 @@
 # Table of contents
 
-* [backend Learning](README.md)
+* [About backend Learning](README.md)
 
 ## CLI
 
@@ -32,8 +32,9 @@
 
 * [profile](db/profile.md)
 
-## IDE
+## more
 
-* [gitbook的markdown說明](ide/gitbook-de-markdown-shuo-ming.md)
-* [vscode](ide/vscode/README.md)
-  * [VS CODE rest client plugin使用](ide/vscode/vs-code-rest-client-plugin-shi-yong.md)
+* [gitbook的markdown說明](more/gitbook-de-markdown-shuo-ming.md)
+* [vscode](more/vscode/README.md)
+  * [VS CODE rest client plugin使用](more/vscode/vs-code-rest-client-plugin-shi-yong.md)
+* [record](more/record.md)
