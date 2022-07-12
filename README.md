@@ -1,5 +1,5 @@
 ---
-description: 嗨，我是Yuri，後端工程師，後端經歷維護與開發五年，歡迎來到我學習backend旅程上的備忘路。
+description: 嗨，我是Mira，後端工程師，後端經歷維護與開發五年，歡迎來到我學習backend旅程上的備忘路。
 ---
 
 # About backend Learning
