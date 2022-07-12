@@ -16,12 +16,13 @@
 
 * [Test & Quality Assurance ](tools-cmd/test-and-quality-assurance/README.md)
   * [Jmeter](tools-cmd/test-and-quality-assurance/jmeter.md)
-* [vscode](tools-cmd/vscode/README.md)
-  * [VS CODE rest client plugin使用](tools-cmd/vscode/vs-code-rest-client-plugin-shi-yong.md)
+* [vscode](more/vscode/README.md)
+  * [VS CODE rest client plugin使用](more/vscode/vs-code-rest-client-plugin-shi-yong.md)
 * [CLI](tools-cmd/cli/README.md)
-  * [git](tools-cmd/cli/git.md)
-  * [linux](tools-cmd/cli/linux.md)
-  * [k8s](tools-cmd/cli/k8s.md)
+  * [git](cli/git.md)
+  * [linux](cli/linux.md)
+  * [k8s](cli/k8s.md)
+  * [mac](tools-cmd/cli/mac.md)
 
 ## DB
 

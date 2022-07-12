@@ -54,6 +54,8 @@ The **Apache JMeter™** application is open source software, a 100% pure Java a
 
 #### HTTP 要求 arrays
 
+這是一個API 會直接回覆 arrays 如下：
+
 ```
 [
 [
@@ -70,7 +72,8 @@ The **Apache JMeter™** application is open source software, a 100% pure Java a
 
 #### BeanShell PostProcessor
 
-處理json資料，並透過vars.put（key,value）設定資料給下一步使用
+* (java語法)處理json資料，並透過vars.put（key,value）設定資料給下一步使用
+* 這邊會需要debug比較麻煩，可以另外從上方視窗叫出log來查看問題出在哪裡
 
 ```java
 import org.json.JSONObject;
