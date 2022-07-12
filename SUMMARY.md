@@ -12,11 +12,16 @@
 * [leetcode](logic/leetcode/README.md)
   * [Page 1](logic/leetcode/page-1.md)
 
-## CLI
+## tools/cmd
 
-* [git](cli/git.md)
-* [linux](cli/linux.md)
-* [k8s](cli/k8s.md)
+* [Test & Quality Assurance ](tools-cmd/test-and-quality-assurance/README.md)
+  * [Jmeter](tools-cmd/test-and-quality-assurance/jmeter.md)
+* [vscode](tools-cmd/vscode/README.md)
+  * [VS CODE rest client plugin使用](tools-cmd/vscode/vs-code-rest-client-plugin-shi-yong.md)
+* [CLI](tools-cmd/cli/README.md)
+  * [git](tools-cmd/cli/git.md)
+  * [linux](tools-cmd/cli/linux.md)
+  * [k8s](tools-cmd/cli/k8s.md)
 
 ## DB
 
@@ -41,6 +46,4 @@
 ## more
 
 * [gitbook的markdown說明](more/gitbook-de-markdown-shuo-ming.md)
-* [vscode](more/vscode/README.md)
-  * [VS CODE rest client plugin使用](more/vscode/vs-code-rest-client-plugin-shi-yong.md)
 * [record](more/record.md)
