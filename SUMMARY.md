@@ -28,6 +28,7 @@
 
 * [profile](db/profile.md)
 * [ORM](db/orm.md)
+* [redis](db/redis.md)
 
 ## Computer Science
 
